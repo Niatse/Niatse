@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niatse💻</h1>
 <h3 align="center">A passionate frontend developer from Uruguay</h3>
 
-- 🔭 I’m currently working on freelancer projects like this [Padeltop](https://padeltop.es/)
+- 🔭 I worked on freelancer projects like this [Padeltop](https://padeltop.es/)
 
 - 🌱 I’m currently learning **Javascript, Bootstrap 5**
 
