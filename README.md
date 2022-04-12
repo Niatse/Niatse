@@ -3,7 +3,7 @@
 
 - 🔭 I worked on freelancer projects like this [Padeltop](https://padeltop.es/)
 
-- 🌱 I’m currently learning **Javascript, Bootstrap 5**
+- 🌱 I’m currently learning **Javascript, React JS and NextJs**
 
 - 👨‍💻 All of my projects are available at [https://sebawebdev.netlify.app/](https://sebawebdev.netlify.app/)
 
