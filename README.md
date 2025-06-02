@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Niatse💻</h1>
+<h1 align="center">Hi 👋, I'm Sebastian💻</h1>
 <h3 align="center">A passionate frontend developer from Uruguay</h3>
 
 - 🔭 I worked on freelancer projects like this [Padeltop](https://padeltop.es/)
